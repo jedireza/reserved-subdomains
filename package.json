@@ -1,6 +1,6 @@
 {
   "name": "reserved-subdomains",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A list of names that should be reserved in multitenant apps.",
   "main": "index.js",
   "typings": "index.d.ts",
