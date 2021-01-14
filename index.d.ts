@@ -4,5 +4,5 @@ export default class ReservedSubdomains {
   public static names: string[];
   public static nameMap: Record<string, boolean>;
   public static patterns: string[];
-  public static patternsRegex: Regex[];
+  public static patternsRegex: RegExp[];
 }
